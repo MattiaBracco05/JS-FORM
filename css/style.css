@@ -1,0 +1,26 @@
+#form input {
+    width: 50vh;
+    height: 10vh;
+    margin: 1px;
+    font-size: 5vh;
+    border: none;
+}
+
+#formDati {
+    background-color: red;
+    width: fit-content;
+    padding: 10px 5px;
+    margin: 10px;
+}
+
+#regione {
+    width: 50vh;
+    height: 10vh;
+    margin: 1px;
+    font-size: 5vh;
+}
+
+.divDati {
+    background-color: lightblue;
+    font-size: 4vh;
+}
